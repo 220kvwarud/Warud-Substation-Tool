@@ -1,0 +1,11 @@
+{
+  "name": "220kV Warud Substation Management Suite",
+  "short_name": "Warud Suite",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f8",
+  "theme_color": "#123456",
+  "description": "Attendance, shift duty, OT and TA bill management for 220kV Warud Substation.",
+  "icons": [{ "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
